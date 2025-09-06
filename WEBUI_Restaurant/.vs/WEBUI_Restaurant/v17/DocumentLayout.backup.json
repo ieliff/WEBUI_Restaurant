@@ -1,0 +1,912 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectmenucategoryviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectmenucategoryviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectmenucategoryviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectmenucategoryviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\menucategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\menucategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\controllers\\reservationcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\controllers\\reservationcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectreservationviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectreservationviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectreservationviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectreservationviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectsliderviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectsliderviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selecttestimonialviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selecttestimonialviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectheaderviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectheaderviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectchefsviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectchefsviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectcontactviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectcontactviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectaboutviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectaboutviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectaboutcounterviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectaboutcounterviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\reservationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\reservationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selecttestimonialviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selecttestimonialviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectcontactviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectcontactviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\testimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\testimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectsliderviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectsliderviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectheaderviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectheaderviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\migrations\\20250906002723_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250906002723_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\aboutcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\aboutcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\chefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\chefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\entity\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7CEFFB-D971-4831-A750-E523023C2ECF}|ENTITY\\Entity.csproj|solutionrelative:entity\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\components\\_selectgalleryviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\components\\_selectgalleryviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectchefsviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectchefsviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\aboutcounterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\aboutcounterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\testimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\testimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\contactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\contactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectaboutcounterviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectaboutcounterviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\aboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\aboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectgalleryviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectgalleryviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\webui_restaurant\\viewcomponents\\_selectaboutviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3E47FB-E70D-456A-B2A2-E11C1286650D}|WEBUI_Restaurant\\WEBUI_Restaurant.csproj|solutionrelative:webui_restaurant\\viewcomponents\\_selectaboutviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\menucategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\menucategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\chefsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\chefsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\bll\\service\\aboutcounterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30074309-9804-4EA6-902A-0B44D16A3B33}|BLL\\BLL.csproj|solutionrelative:bll\\service\\aboutcounterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\sliderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\sliderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\menuitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\menuitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|c:\\users\\enesd\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi2\\webui_restaurant\\dal\\concrete\\chefsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03BE5B1-2780-4527-8935-B1A4FF1D0FE6}|DAL\\DAL.csproj|solutionrelative:dal\\concrete\\chefsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationController1.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Controllers\\ReservationController1.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Controllers\\ReservationController1.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Controllers\\ReservationController1.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\Controllers\\ReservationController1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:48:18.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\MenuCategoryDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\MenuCategoryDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\MenuCategoryDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\MenuCategoryDal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:28:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "Entity\\MenuCategory.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\MenuCategory.cs",
+              "RelativeToolTip": "Entity\\MenuCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:17:11.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Entity\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\MenuItem.cs",
+              "RelativeToolTip": "Entity\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:18:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SelectMenuCategoryViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectMenuCategoryViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectMenuCategoryViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectMenuCategoryViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectMenuCategoryViewComponentPartial.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:10:33.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectMenuCategoryViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectMenuCategoryViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectMenuCategoryViewComponentPartial\\Default.cshtml*",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectMenuCategoryViewComponentPartial\\Default.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T23:16:09.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Reservation.cs",
+              "RelativeDocumentMoniker": "Entity\\Reservation.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Reservation.cs",
+              "RelativeToolTip": "Entity\\Reservation.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:21:06.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\ReservationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\ReservationService.cs",
+              "RelativeToolTip": "BLL\\Service\\ReservationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:01:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_SelectReservationViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectReservationViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectReservationViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectReservationViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectReservationViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:25:03.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectReservationViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectReservationViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectReservationViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectReservationViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T23:01:37.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectSliderViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectSliderViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectSliderViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectSliderViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T12:42:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectTestimonialViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectTestimonialViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectTestimonialViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectTestimonialViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T23:48:42.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectHeaderViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectHeaderViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectHeaderViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectHeaderViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T14:27:31.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectContactViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectContactViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectContactViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectContactViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T12:33:46.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectChefsViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectChefsViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectChefsViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectChefsViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T12:27:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectAboutViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectAboutViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectAboutViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectAboutViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T12:27:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectAboutCounterViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectAboutCounterViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectAboutCounterViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectAboutCounterViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T10:51:45.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:47:35.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_SelectTestimonialViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectTestimonialViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectTestimonialViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectTestimonialViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectTestimonialViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:17:08.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\ReservationDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\ReservationDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\ReservationDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\ReservationDal.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:32:08.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestimonialService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\TestimonialService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\TestimonialService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\TestimonialService.cs",
+              "RelativeToolTip": "BLL\\Service\\TestimonialService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:02:13.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_SelectContactViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectContactViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectContactViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectContactViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectContactViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:56:28.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_SelectHeaderViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectHeaderViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectHeaderViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectHeaderViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectHeaderViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:10:31.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_SelectSliderViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectSliderViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectSliderViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectSliderViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectSliderViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:25:06.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T12:46:11.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Contact.cs",
+              "RelativeDocumentMoniker": "Entity\\Contact.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Contact.cs",
+              "RelativeToolTip": "Entity\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:16:42.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250906002723_CreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Migrations\\20250906002723_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250906002723_CreateDatabase.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Migrations\\20250906002723_CreateDatabase.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250906002723_CreateDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:27:23.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Testimonial.cs",
+              "RelativeDocumentMoniker": "Entity\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Testimonial.cs",
+              "RelativeToolTip": "Entity\\Testimonial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:23:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Context\\DataContext.cs",
+              "RelativeToolTip": "DAL\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:08:57.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Slider.cs",
+              "RelativeDocumentMoniker": "Entity\\Slider.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Slider.cs",
+              "RelativeToolTip": "Entity\\Slider.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAxwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:23:10.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AboutCounter.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\AboutCounter.cs",
+              "RelativeDocumentMoniker": "Entity\\AboutCounter.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\AboutCounter.cs",
+              "RelativeToolTip": "Entity\\AboutCounter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:15:47.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Chefs.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Chefs.cs",
+              "RelativeDocumentMoniker": "Entity\\Chefs.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\Chefs.cs",
+              "RelativeToolTip": "Entity\\Chefs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:16:18.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\About.cs",
+              "RelativeDocumentMoniker": "Entity\\About.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\Entity\\About.cs",
+              "RelativeToolTip": "Entity\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:15:15.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectGalleryViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectGalleryViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectGalleryViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\Components\\_SelectGalleryViewComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T12:34:43.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_SelectChefsViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectChefsViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectChefsViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectChefsViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectChefsViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:08:57.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AboutCounterDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\AboutCounterDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\AboutCounterDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\AboutCounterDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\AboutCounterDal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:26:34.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TestimonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\TestimonialDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\TestimonialDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\TestimonialDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\TestimonialDal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:35:22.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "WEBUI_Restaurant\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAcwK8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-05T13:16:36.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEBUI_Restaurant\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T12:46:02.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AboutDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\AboutDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\AboutDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\AboutDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\AboutDal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:27:19.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ContactDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\ContactDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\ContactDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\ContactDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\ContactDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:28:24.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_SelectAboutCounterViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectAboutCounterViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectAboutCounterViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectAboutCounterViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectAboutCounterViewComponentPartial.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:05:14.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_SelectGalleryViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectGalleryViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectGalleryViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectGalleryViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectGalleryViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:10:02.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_SelectAboutViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectAboutViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "WEBUI_Restaurant\\ViewComponents\\_SelectAboutViewComponentPartial.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\WEBUI_Restaurant\\ViewComponents\\_SelectAboutViewComponentPartial.cs",
+              "RelativeToolTip": "WEBUI_Restaurant\\ViewComponents\\_SelectAboutViewComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:07:48.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\SliderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\SliderService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\SliderService.cs",
+              "RelativeToolTip": "BLL\\Service\\SliderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:02:14.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MenuCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\MenuCategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\MenuCategoryService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\MenuCategoryService.cs",
+              "RelativeToolTip": "BLL\\Service\\MenuCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:00:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\ContactService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\ContactService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\ContactService.cs",
+              "RelativeToolTip": "BLL\\Service\\ContactService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:00:34.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AboutCounterService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\AboutCounterService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\AboutCounterService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\AboutCounterService.cs",
+              "RelativeToolTip": "BLL\\Service\\AboutCounterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:59:27.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\MenuItemService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\MenuItemService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\MenuItemService.cs",
+              "RelativeToolTip": "BLL\\Service\\MenuItemService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:57:01.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SliderDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\SliderDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\SliderDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\SliderDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\SliderDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:32:47.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AboutService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\AboutService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\AboutService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\AboutService.cs",
+              "RelativeToolTip": "BLL\\Service\\AboutService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:56:58.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ChefsService.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\ChefsService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\ChefsService.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\BLL\\Service\\ChefsService.cs",
+              "RelativeToolTip": "BLL\\Service\\ChefsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:56:58.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MenuItemDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\MenuItemDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\MenuItemDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\MenuItemDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\MenuItemDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:29:16.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ChefsDal.cs",
+              "DocumentMoniker": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\ChefsDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\ChefsDal.cs",
+              "ToolTip": "C:\\Users\\enesd\\OneDrive\\Masa\u00FCst\u00FC\\Bitirme Projesi2\\WEBUI_Restaurant\\DAL\\Concrete\\ChefsDal.cs",
+              "RelativeToolTip": "DAL\\Concrete\\ChefsDal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:27:59.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
