@@ -1,0 +1,24 @@
+﻿@model List<Slider>
+
+<!-- Start slider  -->
+<section id="mu-slider">
+    <div class="mu-slider-area">
+        <div class="mu-top-slider">
+
+            @foreach (var item in Model)
+            {
+                <div class="mu-top-slider-single">
+                    <img src="~/assets/img/slider/@item.ImageUrl" alt="@item.Title">
+                    <div class="mu-top-slider-content">
+                        <span class="mu-slider-small-title">@item.Subtitle</span>
+                        <h2 class="mu-slider-title">@item.Title</h2>
+                        <p>@item.ButtonText</p>
+                        <a href="#reservation" class="mu-readmore-btn mu-reservation-btn">Rezervasyon Yapın</a>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</section>
+<!-- End slider  -->

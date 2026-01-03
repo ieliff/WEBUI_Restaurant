@@ -1,0 +1,115 @@
+﻿@model Reservation
+
+@{
+ViewData["Title"] = "Reservation";
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+<div class="alert alert-success">
+@TempData["SuccessMessage"]
+</div>
+}
+
+<!-- Start Reservation section --> <section id="mu-reservation"> <div class="container"> <div class="row"> <div class="col-md-12"> <div class="mu-reservation-area">
+      <div class="mu-title">
+        <span class="mu-subtitle"></span>
+        <h2>RESERVASYON </h2>
+      </div>
+
+      <div class="mu-reservation-content">
+   
+
+        <div class="col-md-6">
+          <div class="mu-reservation-left">
+
+            <form asp-action="Index" asp-controller="Reservation" method="post" class="mu-reservation-form">
+              @Html.AntiForgeryToken()
+              <div class="row">
+
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <input asp-for="Name" class="form-control" placeholder="Full Name" />
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                  </div>
+                </div>
+
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <input asp-for="Email" class="form-control" placeholder="Email" />
+                    <span class="text-danger" asp-validation-for="Email"></span>
+                  </div>
+                </div>
+
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <input asp-for="Phone" class="form-control" placeholder="Phone Number" />
+                    <span class="text-danger" asp-validation-for="Phone"></span>
+                  </div>
+                </div>
+
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <select asp-for="NumberOfPeople" class="form-control">
+                      <option value="">How Many?</option>
+                      @for (int i = 1; i <= 10; i++)
+                      {
+                          <option value="@i">@i Person@(i>1?"s":"")</option>
+                      }
+                    </select>
+                    <span class="text-danger" asp-validation-for="NumberOfPeople"></span>
+                  </div>
+                </div>
+
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <input asp-for="ReservationDateTime" type="datetime-local" class="form-control" placeholder="Date" />
+                    <span class="text-danger" asp-validation-for="ReservationDateTime"></span>
+                  </div>
+                </div>
+
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <textarea asp-for="SpecialRequest" class="form-control" cols="30" rows="10" placeholder="Your Message"></textarea>
+                    <span class="text-danger" asp-validation-for="SpecialRequest"></span>
+                  </div>
+                </div>
+
+                <button type="submit" class="mu-readmore-btn">Make Reservation</button>
+              </div>
+            </form>
+
+          </div>
+        </div>
+
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="mu-reservation-right">
+                                <div class="mu-opening-hour">
+                                    <h2>Açılış Saatleri</h2>
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <p>Pazartesi &amp; Salı</p>
+                                            <p>09:00 - 16:00</p>
+                                        </li>
+                                        <li>
+                                            <p>Çarşamba &amp; Perşembe</p>
+                                            <p>09:00 - Gece Yarısı</p>
+                                        </li>
+                                        <li>
+                                            <p>Cuma &amp; Cumartesi</p>
+                                            <p>09:00 - Gece Yarısı</p>
+                                        </li>
+                                        <li>
+                                            <p>Pazar</p>
+                                            <p>09:00 - 23:00</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+      </div><!-- mu-reservation-content -->
+    </div>
+  </div>
+</div>
+</div> </section> <!-- End Reservation section -->

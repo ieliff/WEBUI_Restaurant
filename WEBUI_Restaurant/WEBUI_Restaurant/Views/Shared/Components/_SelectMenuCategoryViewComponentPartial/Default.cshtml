@@ -1,0 +1,100 @@
+﻿@model WEBUI_Restaurant.ViewComponents.MenuViewModel
+
+<!-- Start Restaurant Menu -->
+<section id="mu-restaurant-menu">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="mu-restaurant-menu-area">
+
+                    <div class="mu-title">
+                        <span class="mu-subtitle">Özel</span>
+                        <h2>MENÜMÜZÜ KEŞFEDİN</h2>
+                    </div>
+
+                    <div class="mu-restaurant-menu-content">
+                        <!-- Sekmeler (Kategoriler) -->
+                        <ul class="nav nav-tabs mu-restaurant-menu">
+                            @foreach (var category in Model.Categories)
+                            {
+                                <li class="@(category == Model.Categories.First() ? "active" : "")">
+                                    <a href="#tab-@category.Id" data-toggle="tab">@category.Name</a>
+                                </li>
+                            }
+                        </ul>
+
+                        <!-- Tab içerikleri -->
+                        <div class="tab-content">
+                            @foreach (var category in Model.Categories)
+                            {
+                                <div class="tab-pane fade @(category == Model.Categories.First() ? "in active" : "")" id="tab-@category.Id">
+                                    <div class="mu-tab-content-area">
+                                        <div class="row">
+                                            @{
+                                                var categoryItems = Model.Items
+                                                .Where(x => x.MenuCategoryId == category.Id)
+                                                .ToList();
+                                                var half = (categoryItems.Count + 1) / 2;
+                                            }
+
+                                            <div class="col-md-6">
+                                                <div class="mu-tab-content-left">
+                                                    <ul class="mu-menu-item-nav">
+                                                        @foreach (var item in categoryItems.Take(half))
+                                                        {
+                                                            <li>
+                                                                <div class="media">
+                                                                    <div class="media-left">
+                                                                        <a href="#">
+                                                                            <img class="media-object" src="~/assets/img/menu/@item.ImageUrl" alt="@item.Name">
+                                                                        </a>
+                                                                    </div>
+                                                                    <div class="media-body">
+                                                                        <h4 class="media-heading"><a href="#">@item.Name</a></h4>
+                                                                        <span class="mu-menu-price">$@item.Price</span>
+                                                                        <p>@item.Description</p>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        }
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <div class="mu-tab-content-right">
+                                                    <ul class="mu-menu-item-nav">
+                                                        @foreach (var item in categoryItems.Skip(half))
+                                                        {
+                                                            <li>
+                                                                <div class="media">
+                                                                    <div class="media-left">
+                                                                        <a href="#">
+                                                                            <img class="media-object" src="~/assets/img/menu/@item.ImageUrl" alt="@item.Name">
+                                                                        </a>
+                                                                    </div>
+                                                                    <div class="media-body">
+                                                                        <h4 class="media-heading"><a href="#">@item.Name</a></h4>
+                                                                        <span class="mu-menu-price">$@item.Price</span>
+                                                                        <p>@item.Description</p>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        }
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Restaurant Menu -->

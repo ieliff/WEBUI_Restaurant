@@ -1,0 +1,33 @@
+﻿@model List<AboutCounter>
+
+<!-- Start Counter Section -->
+<section id="mu-counter">
+    <div class="mu-counter-overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="mu-counter-area">
+                        <ul class="mu-counter-nav">
+
+                            @foreach (var counter in Model)
+                            {
+                                <li class="col-md-3 col-sm-3 col-xs-12">
+                                    <div class="mu-single-counter">
+                                        <span>@counter.Title</span>
+                                        <h3>
+                                            <span class="counter-value" data-count="@counter.Value">0</span>
+                                            <sup>@counter.Suffix</sup>
+                                        </h3>
+                                        <p>@counter.Description</p>
+                                    </div>
+                                </li>
+                            }
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Counter Section -->

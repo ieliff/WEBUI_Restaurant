@@ -1,0 +1,74 @@
+﻿
+@model Contact 
+<!-- Start Contact section -->
+<section id="mu-contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="mu-contact-area">
+
+                    <div class="mu-title">
+                        <span class="mu-subtitle">İletişime Geçin</span>
+                        <h2>Bize Ulaşın</h2>
+                    </div>
+
+                    <div class="mu-contact-content">
+                        <div class="row">
+
+                            <div class="col-md-6">
+                                <div class="mu-contact-left">
+                                    <!-- Email message div -->
+                                    <div id="form-messages"></div>
+                                    <!-- Start contact form -->
+                                    <form id="ajax-contact" method="post" action="/Contact/Index" class="mu-contact-form">
+                                        <div class="form-group">
+                                            <label for="name">Adınız</label>
+                                            <input type="text" class="form-control" id="name" name="name" placeholder="Adınız" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="email">E-posta Adresi</label>
+                                            <input type="email" class="form-control" id="email" name="email" placeholder="E-posta" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="subject">Konu</label>
+                                            <input type="text" class="form-control" id="subject" name="subject" placeholder="Konu" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="message">Mesajınız</label>
+                                            <textarea class="form-control" id="message" name="message" cols="30" rows="10" placeholder="Mesajınızı Yazın" required></textarea>
+                                        </div>
+                                        <button type="submit" class="mu-send-btn">Mesaj Gönder</button>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="mu-contact-right">
+                                    <div class="mu-contact-widget">
+                                        <h3>Ofis Adresi</h3>
+                                        <p>Restoranımız şehir merkezinde yer almakta olup, toplu taşıma araçlarıyla kolayca ulaşabilirsiniz. Misafirlerimizi rahat ve samimi bir ortamda ağırlamaktan mutluluk duyarız..</p>
+                                        <address>
+                                            <p><i class="fa fa-phone"></i> (850) 457 6688</p>
+                                            <p><i class="fa fa-envelope-o"></i>iletisim@markups.io</p>
+                                            <p><i class="fa fa-map-marker"></i>368 St. Panama City, Florida, USA</p>
+                                        </address>
+                                    </div>
+                                    <div class="mu-contact-widget">
+                                        <h3>Açık Saatler</h3>
+                                        <address>
+                                            <p><span>Pazartesi - Cuma</span> 9.00 - 12.00</p>
+                                            <p><span>Cumartesi</span> 9.00 - 22.00</p>
+                                            <p><span>Pazar</span> 10.00 - 12.00</p>
+                                        </address>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Contact section -->
